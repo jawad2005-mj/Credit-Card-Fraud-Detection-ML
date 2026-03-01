@@ -1,5 +1,10 @@
 # 🛡️ FraudGuard AI: Real-Time Financial Fraud Detection System
-
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Random%20Forest-orange?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue?style=for-the-badge&logo=python)
 ![Machine Learning](https://img.shields.io/badge/Model-Random%20Forest-orange?style=for-the-badge)
 ![Backend](https://img.shields.io/badge/Backend-FastAPI-005571?style=for-the-badge&logo=fastapi)
@@ -91,3 +96,4 @@ By deploying this model, financial institutions can automatically flag high-risk
 **Role:** ML Developer & Data Analyst
 
 **LinkedIn:** https://www.linkedin.com/in/muhammad-jawad-92380629a/
+
