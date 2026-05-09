@@ -45,7 +45,7 @@ The system features a **Training Pipeline**, a **REST API** for real-time integr
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/FraudGuard-AI.git
+git clone https://github.com/jawad2005-mj/FraudGuard-AI.git
 cd FraudGuard-AI
 ```
 
@@ -93,6 +93,6 @@ By deploying this model, financial institutions can automatically flag high-risk
 
 **Role:** ML Developer & Data Analyst
 
-**LinkedIn:** https://www.linkedin.com/in/muhammad-jawad-92380629a/
-
+[**LinkedIn:** https://www.linkedin.com/in/muhammad-jawad-92380629a/
+](https://www.linkedin.com/in/muhammad-jawadofficial)
 
